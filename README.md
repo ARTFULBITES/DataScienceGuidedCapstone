@@ -1,11 +1,4 @@
-# DataScienceCapstone
-
-Hello students!
-Welcome to the Data Science Guided Capstone! 
-
-## Getting Started
-
-Start by forking this repository to your personal GitHub account and cloning the fork to your local machine. 
+ 
 
 **Note**: If forking and cloning a repo is new to you and/or github is new to you then it is strongly suggested to use [GitHub desktop](https://desktop.github.com/) and follow instructions in the docs [here](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop).
 
